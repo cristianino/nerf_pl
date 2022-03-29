@@ -1,5 +1,5 @@
-torch==1.11.0
-torchvision==0.12
+torch==1.10.0
+torchvision==0.11
 pytorch-lightning==0.7.5
 test-tube
 kornia==0.2.0
