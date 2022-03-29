@@ -3,7 +3,7 @@ torchvision==0.11.1
 pytorch-lightning==0.7.5
 test-tube
 kornia==0.2.0
-opencv-python==4.5
+opencv-python==4.5.1.48
 matplotlib
 jupyter
 
